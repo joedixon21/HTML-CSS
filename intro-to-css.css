@@ -2,17 +2,16 @@
     background-color: greenyellow;
 }
 
-
-
 #mars-image {
     height: 500px;
     width: 300px;
     border-radius: 50%;
-    border: 100px
+    border: 1px
 }
 
 h1, h2, h3 {
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 a {
@@ -21,4 +20,18 @@ a {
 
 ol, ul {
     color: rgb(224, 14, 175);
+}
+
+#h1-aboutme {
+    padding-right: 5px;
+    padding-left: 4px;
+    padding-top: 7px;
+    padding-bottom: 0px;
+    border: 5px solid red;
+}
+
+#h2-family {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    border: 5px solid rgb(0, 251, 222);
 }
