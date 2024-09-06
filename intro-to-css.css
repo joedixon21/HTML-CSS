@@ -2,9 +2,23 @@
     background-color: greenyellow;
 }
 
+
+
 #mars-image {
     height: 500px;
     width: 300px;
     border-radius: 50%;
     border: 100px
+}
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-size: 25px;
+}
+
+ol, ul {
+    color: rgb(224, 14, 175);
 }
